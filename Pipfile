@@ -8,6 +8,9 @@ python_version = '3.9'
 [packages]
 tensorflow="*"
 tensorflow_datasets="*"
+bitstruct="*"
+numba="*"
+numpy="<1.20"
 
 [dev-packages]
 yapf="*"
